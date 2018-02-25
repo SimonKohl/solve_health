@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "/solve_health"
-url: "https://github.com/SimonKohl/"
+url: "https://github.com/SimonKohl"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: solve.health
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
