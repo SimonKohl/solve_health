@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/solve_health" #"/type-theme"
-url: "https://github.com/SimonKohl" #"https://rohanchandra.github.io/"
+baseurl: "/solve_health"
+url: "https://github.com/SimonKohl/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
